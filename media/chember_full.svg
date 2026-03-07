@@ -13,8 +13,14 @@
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs5" />
+<defs id="defs5">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand&amp;display=swap');
+    text {
+      font-family: 'Quicksand', sans-serif;
+    }
+  </style>
+</defs>
   <sodipodi:namedview
      id="namedview5"
      pagecolor="#ffffff"
@@ -82,6 +88,6 @@
          x="394.91211"
          y="298.18942"
          sodipodi:role="line"
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:0;font-family:'Apple Braille';-inkscape-font-specification:'Apple Braille';fill:#9a6633;fill-opacity:1">hember</tspan></text>
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:0;font-family:'Quicksand';;fill:#9a6633;fill-opacity:1">hember</tspan></text>
   </g>
 </svg>
