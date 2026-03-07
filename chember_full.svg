@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   viewBox="0.0 0.0 960.0 540.0"
+   fill="none"
+   stroke="none"
+   stroke-linecap="square"
+   stroke-miterlimit="10"
+   id="svg5"
+   sodipodi:docname="chember_full.svg"
+   inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+<defs id="defs5">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Quicksand&amp;display=swap');
+    text {
+      font-family: 'Quicksand', sans-serif;
+    }
+  </style>
+</defs>
+  <sodipodi:namedview
+     id="namedview5"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="0.57557916"
+     inkscape:cx="562.04259"
+     inkscape:cy="250.18279"
+     inkscape:window-width="1320"
+     inkscape:window-height="711"
+     inkscape:window-x="130"
+     inkscape:window-y="38"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g5" />
+  <clipPath
+     id="g20faba436ed_0_0.0">
+    <path
+       d="m0 0l960.0 0l0 540.0l-960.0 0l0 -540.0z"
+       clip-rule="nonzero"
+       id="path1" />
+  </clipPath>
+  <g
+     clip-path="url(#g20faba436ed_0_0.0)"
+     id="g5">
+    <path
+       fill="#ffd996"
+       d="M 0,0 H 960 V 540 H 0 Z"
+       fill-rule="evenodd"
+       id="path2"
+       style="fill:#f3e8db;fill-opacity:1"
+       sodipodi:nodetypes="ccccc" />
+    <path
+       fill="#000000"
+       fill-opacity="0"
+       d="m 257.1592,271.73738 v 0 c 0,-62.62126 50.76456,-113.38583 113.38583,-113.38583 v 0 c 30.07178,0 58.91193,11.94598 80.1759,33.20995 21.26398,21.26396 33.2099,50.10409 33.2099,80.17589 v 0 c 0,62.62127 -50.76453,113.38583 -113.3858,113.38583 v 0 c -62.62128,0 -113.38583,-50.76456 -113.38583,-113.38583 z"
+       fill-rule="evenodd"
+       id="path3" />
+    <path
+       stroke="#ffffff"
+       stroke-width="24"
+       stroke-linejoin="round"
+       stroke-linecap="butt"
+       d="m 257.1592,271.73738 v 0 c 0,-62.62126 50.76456,-113.38583 113.38583,-113.38583 v 0 c 30.07178,0 58.91193,11.94598 80.1759,33.20995 21.26398,21.26396 33.2099,50.10409 33.2099,80.17589 v 0 c 0,35.42884 -16.24914,67.06248 -41.70144,87.85492 -19.53521,15.95868 -44.49192,25.53091 -71.68436,25.53091 v 0 c -62.62128,0 -113.38583,-50.76456 -113.38583,-113.38583 z"
+       fill-rule="evenodd"
+       id="path4"
+       sodipodi:nodetypes="cssssssssssc"
+       style="stroke:#9a6633;stroke-opacity:1" />
+    <path
+       fill="#ffd996"
+       d="m 427.24583,225.60121 h 127.59051 v 92.27235 H 427.24583 Z"
+       fill-rule="evenodd"
+       id="path5"
+       style="fill:#f3e8da;fill-opacity:1;stroke-width:1.64472" />
+    <text
+       xml:space="preserve"
+       style="font-size:85.3333px;line-height:0;text-align:start;writing-mode:lr-tb;direction:ltr;text-anchor:start;fill:#9a6633;fill-opacity:1;stroke:#9a6633;stroke-opacity:1"
+       x="394.91211"
+       y="298.18942"
+       id="text5"><tspan
+         id="tspan5"
+         x="394.91211"
+         y="298.18942"
+         sodipodi:role="line"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:85.3333px;line-height:0;font-family:'Quicksand';;fill:#9a6633;fill-opacity:1">hember</tspan></text>
+  </g>
+</svg>
