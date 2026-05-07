@@ -1,92 +1,40 @@
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en">
 <head>
-  <link rel="preconnect" href="https://fonts.googleapis.com">
-  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
-  <meta charset="UTF-8" />
-  <title>Chember</title>
+  <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
-  <style>
-    /* Full-page layout */
-    html, body {
-      height: 100%;
-      margin: 0;
-    }
-
-    body {
-      display: flex;
-      flex-direction: column;
-      align-items: center;
-      justify-content: center;
-      background: #f3e8dbff; 
-      color: #9a6633ff;
-    }
-
-    .container {
-      text-align: center;
-    }
-
-    .svg-wrapper svg {
-      width: 50vw;
-      height: auto;
-      user-select: none;
-      -webkit-user-select: none;
-    }
-
-    .contact {
-      font-size: 1rem;
-      opacity: 0.9;
-    }
-  </style>
+  <title>Chember</title>
+  <meta name="description" content="Chember is a social app for sharing photos with people you know. No influencers, no doomscrolling, no endless content." />
+  <link rel="stylesheet" href="styles.css" />
 </head>
 <body>
-  <div class="container">
-    <div class="svg-wrapper">
-        <svg
-           version="1.1"
-           viewBox="0.0 0.0 960.0 540.0"
-           fill="none"
-           stroke="none"
-           stroke-linecap="square"
-           stroke-miterlimit="10"
-           id="svg5"
-           sodipodi:docname="chember_full.svg"
-           inkscape:version="1.4.2 (ebf0e940, 2025-05-08)"
-           xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-           xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-           xmlns="http://www.w3.org/2000/svg"
-           xmlns:svg="http://www.w3.org/2000/svg">
-          <g>
-            <path
-               fill="#f3e8db"
-               d="M 0,0 H 960 V 540 H 0 Z" />
-            <path
-               fill="#000000"
-               fill-opacity="0"
-               d="m 257.1592,271.73738 v 0 c 0,-62.62126 50.76456,-113.38583 113.38583,-113.38583 v 0 c 30.07178,0 58.91193,11.94598 80.1759,33.20995 21.26398,21.26396 33.2099,50.10409 33.2099,80.17589 v 0 c 0,62.62127 -50.76453,113.38583 -113.3858,113.38583 v 0 c -62.62128,0 -113.38583,-50.76456 -113.38583,-113.38583 z" />
-            <path
-               stroke="#9a6633"
-               stroke-width="24"
-               stroke-linejoin="round"
-               stroke-linecap="butt"
-               d="m 257.1592,271.73738 v 0 c 0,-62.62126 50.76456,-113.38583 113.38583,-113.38583 v 0 c 30.07178,0 58.91193,11.94598 80.1759,33.20995 21.26398,21.26396 33.2099,50.10409 33.2099,80.17589 v 0 c 0,35.42884 -16.24914,67.06248 -41.70144,87.85492 -19.53521,15.95868 -44.49192,25.53091 -71.68436,25.53091 v 0 c -62.62128,0 -113.38583,-50.76456 -113.38583,-113.38583 z" />
-            <path
-               fill="#f3e8da"
-               d="m 427.24583,225.60121 h 127.59051 v 92.27235 H 427.24583 Z" />
-            <text
-               x="394.91211"
-               y="298.18942"
-               style="font-size:85.3333px; font-family:'Quicksand', sans-serif; fill:#9a6633;">
-              hember
-            </text>
-          </g>
-      </svg>
-    </div>
+  <main class="hero">
+    <section class="hero-inner" aria-labelledby="hero-title">
+      <img src="assets/logo.png" alt="Chember" class="hero-logo" />
+      <p class="intro">
+        no influencers
+      </p>
+      <p class="intro">
+        no doomscrolling
+      </p>
+      <p class="intro">
+        just your friends
+      </p>
 
-    <p class="contact">
-      learnmore@chember.net
-    </p>
-  </div>
+      <a class="app-store-button" href="#" aria-label="Download Chember on the App Store">
+        <span class="small">Download on the</span>
+        <span class="large">App Store</span>
+      </a>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>© 2026 Chember</p>
+    <div class="footer-links">
+      <a href="privacy.html">Privacy Policy</a>
+      <a href="terms.html">Terms and Conditions</a>
+      <a href="support.html">Customer Support</a>
+    </div>
+  </footer>
 </body>
 </html>
